@@ -1,12 +1,41 @@
-# React + Vite
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codexayush7/assets/main/github-finder-logo.svg" alt="GitHub User Finder Logo" width="120" />
+  <h2>GitHub User Finder</h2>
+  <p>Search any GitHub user and view profile, repos & more!</p>
+  <a href="https://github-user-finder-app-blond.vercel.app" target="_blank">
+    🔗 Live Demo
+  </a>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Real-time GitHub user search
+- 📂 View public repos, followers, and more
+- 💻 Clean, responsive UI with smooth animations
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 🎨 CSS Modules / Styled Components
+- 🌐 GitHub API
+- 📦 Vercel (Hosting)
+
+---
+
+## 📎 Live URL
+
+[https://github-user-finder-app-blond.vercel.app](https://github-user-finder-app-blond.vercel.app)
+
+---
+
+## 📂 Clone & Run
+
+```bash
+git clone https://github.com/your-username/github-user-finder-app.git
+cd github-user-finder-app
+npm install
+npm start
