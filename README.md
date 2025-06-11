@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codexayush7/assets/main/github-finder-logo.svg" alt="GitHub User Finder Logo" width="120" />
+
   <h2>GitHub User Finder</h2>
   <p>Search any GitHub user and view profile, repos & more!</p>
-  <a href="https://github-user-finder-app-blond.vercel.app" target="_blank">
-    🔗 Live Demo
-  </a>
-</div>
+
+
 
 ---
 
